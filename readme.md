@@ -32,3 +32,6 @@ DB_PASSWORD=12332167
 DB_NAME=bloapp
 SECRET_KEY=RnXHGleyAcRfJaULJMJxK7vlYDE2VMUYiYSwM2UwoVg=
 */
+
+
+![image](https://github.com/user-attachments/assets/9090a4c8-81bb-4015-a3ab-08156ff750ab)
